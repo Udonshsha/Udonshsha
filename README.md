@@ -1,7 +1,8 @@
 <!--타이틀 부분-->
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
-<\div>
+[  <img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90" />
+](https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maritime%20Security%20Researcher&fontAlignY=40&fontAlign=50&descAlign=80&descAlignY=95)
+  <\div>
   
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
