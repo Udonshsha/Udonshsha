@@ -42,7 +42,7 @@
 </div>
 
 <div align="center">
-  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=black" />&nbsp
+  <img src="https://img.shields.io/badge/adobe%20photoshop-08253c.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" />&nbsp
   <img src="https://img.shields.io/badge/adobe%20premierepro-f44336.svg?style=for-the-badge&logo=adobepremierepro&logoColor=black" />&nbsp
   <img src="https://img.shields.io/badge/autodesk%20maya-37A5CC.svg?style=for-the-badge&logo=autodeskmaya&logoColor=black" />&nbsp
 </div>
