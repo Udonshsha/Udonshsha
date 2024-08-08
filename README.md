@@ -55,11 +55,11 @@
 </div>
 
 <br>
-<!--
+
 <h3 align="center">📫 Contact 📫</h3>
 <div align="center">
   <a href="mailto:nyh@cytur.net">
     <img
       src="https://img.shields.io/badge/nyh@cytur.net-3492FF?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
-</div> -->
+</div>
