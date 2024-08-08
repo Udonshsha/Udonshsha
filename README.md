@@ -1,7 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&height=300&color=gradient&text=Maritime%20Security%20Researcher&fontAlignY=40&fontAlign=50&descAlign=80&descAlignY=95" />
+  <img src="https://capsule-render.vercel.app/api? type=waving&height=300&color=gradient&text=Maritime%20Security%20Researcher-nl-in%20CYTUR&fontAlignY=40&fontAlign=50&descAlign=80&descAlignY=95&fontSize=50&rotate=0§ion=header&reversal=false" />
 <\div>
   
 <!--내용 부분-->
