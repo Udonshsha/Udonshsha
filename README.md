@@ -3,9 +3,6 @@
   <img src="" />
 </div> -->
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udonshsha&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udonshsha&layout=compact)
-
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
 <div align="center">
@@ -59,3 +56,7 @@
       src="https://img.shields.io/badge/nyh@cytur.net-3492FF?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
+
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Udonshsha&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Udonshsha&layout=compact)
+
